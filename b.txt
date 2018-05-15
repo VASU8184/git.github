@@ -1,2 +1,0 @@
-new file for directly commiting with out adding to the staging area
-adding another line
