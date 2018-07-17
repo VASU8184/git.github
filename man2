@@ -1,0 +1,5 @@
+this file is creater by testbranch to test merge conflictsnew line added through master branch
+<<<<<<< HEAD
+=======
+new line added through testbranch
+>>>>>>> testbranch
